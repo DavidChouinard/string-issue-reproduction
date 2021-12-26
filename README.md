@@ -1,4 +1,4 @@
-This repository is a minimal reproducible example of the isue discussed [on this Stack Overflow thread](https://stackoverflow.com/questions/70488180/mysterious-string-behavior-in-javascript).
+This repository is a minimal reproducible example of the issue discussed [on this Stack Overflow thread](https://stackoverflow.com/questions/70488180/mysterious-string-behavior-in-javascript).
 
 ## Reproduction steps
 
